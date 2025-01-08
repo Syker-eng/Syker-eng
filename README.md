@@ -1,11 +1,5 @@
-## Hi there 👋
-
 <!--
-
-Here are some ideas to get you started:
-
 - 🛠 Currently in development ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
 
